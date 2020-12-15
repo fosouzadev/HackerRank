@@ -1,4 +1,5 @@
 ﻿using System;
+using CSharp.Arrays;
 
 namespace CSharp
 {
@@ -6,7 +7,7 @@ namespace CSharp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            
         }
     }
 }
